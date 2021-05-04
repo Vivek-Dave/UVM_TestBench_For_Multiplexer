@@ -8,5 +8,7 @@ Includes :
 -- Coverage   component
 
 Testbench Architecture
+
+
 ![MUX TB ARCHITECTURE](https://user-images.githubusercontent.com/82656806/116967712-981acb80-acd0-11eb-8681-5045af21b26f.png)
 
